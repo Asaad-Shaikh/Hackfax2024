@@ -1,7 +1,21 @@
 {
+  "type": "module",
   "dependencies": {
+    "@langchain/openai": "^0.0.14",
     "axios": "^1.6.7",
     "cheerio": "^1.0.0-rc.12",
+    "dotenv": "^16.4.4",
+    "hnswlib-node": "^1.4.2",
     "langchain": "^0.1.20"
-  }
+  },
+  "scripts": {
+    "start": "node --loader ts-node/esm ./server.cjs"
+  },
+  "name": "hackfax2024",
+  "description": "",
+  "version": "1.0.0",
+  "main": "scraper.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }
