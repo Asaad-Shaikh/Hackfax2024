@@ -1,21 +1,32 @@
-const axios = require('axios');
+const puppeteer = require('puppeteer');
 const cheerio = require('cheerio');
 
 const url = 'https://mason360.gmu.edu/events';
 
-axios.get(url)
-  .then(response => {
-    const html = response.data;
-    const $ = cheerio.load(html);
-    const events = [];
+(async () => {
+  // Launch the headless browser
+  const browser = await puppeteer.launch();
+  
+  // Open a new page
+  const page = await browser.newPage();
+  
+  // Navigate to the URL
+  await page.goto(url, { waitUntil: 'networkidle0' }); // wait until network is idle
+  
+  // Use the page content in cheerio
+  const content = await page.content();
+  const $ = cheerio.load(content);
+  const events = [];
 
-    // Example: Find event titles assuming they are in <h2> tags.
-    // Note: The actual selector will depend on the website's HTML structure.
-    $('div[class = "media-body"]>h3').each(function() {
-      const title = $(this).text();
-      events.push(title);
-    });
+  // Select the elements and get the data
+  $('div.media-body > h3').each(function () {
+    const title = $(this).text().trim();
+    events.push(title);
+  });
 
-    console.log(events);
-  })
-  .catch(console.error);
+  // Output the events
+  console.log(events);
+  
+  // Close the browser
+  await browser.close();
+})();
