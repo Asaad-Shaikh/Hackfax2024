@@ -63,10 +63,11 @@ async def create_login(login_request: LoginRequest, db: Session = Depends(get_db
         input_variables=["context", "question"], template=qa_template
     )
     chain = LLMChain(llm=llm, prompt=prompt)
-    response = chain.run(context=context, question=db_login)
+    response = chain.run(context=context, question=login_request.username)
 
     print(response)
-    return {"response": response}
+    return {"status": "Username stored in database successfully.",
+        "response": response}
 
     #return {"status": "Username stored in database successfully."}
 
