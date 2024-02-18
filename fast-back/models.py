@@ -1,9 +1,6 @@
+from sqlalchemy import Column, String
 from database import Base
-from sqlalchemy import Column, Integer, String, Boolean, Float
 
 class Login(Base):
-    __tablename__='login'
-
-    masonid = Column(String, primary_key=True)
-    password = Column(String)
-    
+    __tablename__ = 'requests'
+    username = Column(String, primary_key=True)
