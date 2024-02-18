@@ -1,0 +1,61 @@
+/* Resetting default margin for the body */
+body {
+    margin: 0;
+}
+
+/* Styles for the wrapper and its content */
+.wrapper {
+    width: 620px;
+    background: slateblue;
+    background: rgba(250, 128, 114, 0); /* Use rgba for transparency */
+    border-radius: 10px;
+    padding: 10px 40px;
+    color: rgb(18, 191, 44);
+    margin: 20px auto 0; /* Moved margin to the top and centered horizontally */
+}
+
+.wrapper h1 {
+    font-size: 38px;
+    text-align: center;
+}
+
+.ai-response {
+    margin-bottom: 20px; /* Add some space below the AI response */
+    font-weight: bold;
+    color: #020202; /* Example color */
+  }
+.wrapper .input-box {
+    padding-bottom:140px ;
+    position: relative;
+    width: 100%;
+    height: 50px; /* Increased height for better visibility */
+    margin: 20px 0; /* Adjusted margin for spacing */
+}
+
+.input-box input {
+    width: calc(100% - 40px); /* Adjusted width to accommodate icon */
+    height: 100%;
+    background: transparent;
+    border: 2px solid rgba(232, 225, 224, 0.596);
+    outline: none;
+    border-radius: 40px;
+    font-size: 16px;
+    padding: 0 20px; /* Added padding for better visual appearance */
+    box-sizing: border-box; /* Include padding in the total width */
+}
+
+.input-box input::placeholder {
+    color: white;
+}
+
+.input-box .icon {
+    position: absolute;
+    right: 20px;
+    top: 50%;
+    transform: translate(-50%);
+    font-size: 16px;
+    color: white; /* Set icon color to match placeholder */
+}
+
+/* Styles for buttons */
+

@@ -1,0 +1,95 @@
+/* Importing Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+/* Resetting default margin for the body */
+body {
+  margin: 0; /* Updated to 0 to remove default margin */
+  font-family: 'Poppins', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  background: linear-gradient(45deg, #FFD700, #061209); /* Gradient background */
+
+
+}
+
+.wrapper {
+  width: 620px;
+  background: slateblue;
+  background: rgba(250, 128, 114, 0); /* Use rgba for transparency */
+  border-radius: 10px;
+  padding: 30px 40px;
+  color: black;
+  margin: 20px auto 0; /* Moved margin to the top and centered horizontally */
+}
+
+.wrapper h1 {
+  font-size: 58px;
+  text-align: center;
+}
+
+.wrapper .input-box {
+  position: relative;
+  width: 100%;
+  height: 50px; /* Increased height for better visibility */
+  margin: 20px 0; /* Adjusted margin for spacing */
+}
+
+.input-box input {
+  width: calc(100% - 40px); /* Adjusted width to accommodate icon */
+  height: 100%;
+  background: transparent;
+  border: 2px solid rgba(232, 225, 224, 0.596);
+  outline: none;
+  border-radius: 40px;
+  font-size: 16px;
+  padding: 0 20px; /* Added padding for better visual appearance */
+  box-sizing: border-box; /* Include padding in the total width */
+}
+
+.input-box input::placeholder {
+  color: white;
+}
+
+.input-box .icon {
+  position: absolute;
+  right: 20px;
+  top: 50%;
+  transform: translate(-50%);
+  font-size: 16px;
+  color: white; /* Set icon color to match placeholder */
+}
+
+/* Styles for buttons */
+.wrapper button, .wrapper .enter-button {
+  width: 40%; /* Adjusted width to make it smaller */
+  height: 35px; /* Adjusted height to make it smaller */
+  background-color: rgb(0, 255, 102);
+  border: none;
+  outline: none;
+  border-radius: 20px; /* Adjusted border-radius for consistency */
+  box-shadow: 0 0 10px rgba(0, 0, 0, .1);
+  cursor: pointer;
+  font-size: 14px; /* Adjusted font size for smaller text */
+  color: #333;
+  font-weight: 700;
+  margin: 20px 0 0 160px; /* Slightly moved to the left */
+  display: block; /* Ensures block-level element behavior */
+  transition: background-color 0.3s ease; /* Smooth transition effect */
+}
+
+/* Change button color on hover */
+.wrapper button:hover, .wrapper .enter-button:hover {
+  background-color: rgb(0, 200, 90); /* Change to your desired hover color */
+}
+
+/* Additional styling for .wrapper button */
+.wrapper button {
+  width: 40%; /* Adjusted width to make it smaller */
+  height: 35px; /* Adjusted height to make it smaller */
+  border-radius: 20px; /* Adjusted border-radius for consistency */
+  padding-top: 5px; /* Adjusted padding for smaller height */
+  display: block; /* Ensures block-level element behavior */
+}
