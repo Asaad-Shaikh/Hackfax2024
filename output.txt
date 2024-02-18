@@ -1,532 +1,322 @@
-Accounting Analytics Graduate Certificate
-Accounting for Government Contracts Graduate Certi...
-Accounting Undergraduate Certificate
-Accounting, MS
-Actuarial Sciences Graduate Certificate
-Add-On Endorsement in Special Education, General C...
-Advanced Biomedical Sciences Graduate Certificate
-Advanced Networking Protocols for Telecommunicatio...
-African and African American Studies Minor
-Aging Studies Minor
-American Government Minor
-American Sign Language Minor
-Ancient History and Mediterranean Archaeology Minor
-Animation Minor
-Anthropology Minor
-Anthropology, BA
-Anthropology, MA
-Applied and Engineering Physics, MS
-Applied Behavior Analysis Graduate Certificate
-Applied Computer Science, BS
-Applied Cyber Security Graduate Certificate
-Applied Industrial and Organizational Psychology, MPS
-Applied Information Technology, MS
-Applied Psychology Graduate Certificate
-Applied Science, BAS
-Applied Statistics Graduate Certificate
-Arabic Minor
-Art and Visual Technology, BA
-Art and Visual Technology, BFA
-Art Education Licensure Graduate Certificate
-Art History Minor
-Art History, BA
-Art History, MA
-Artist Graduate Certificate
-Arts and Social Change Minor
-Arts Education, MAT
-Arts Management Minor
-Arts Management, MA
-Asia-Pacific and Northeast Asian Studies Minor
-Assistive Technology Graduate Certificate
-Assistive Technology Minor
-Astronomy Minor
-Astronomy, BS
-Astrophysics Minor
-Athletic Training, MS
-Atmospheric Science Minor
-Atmospheric Sciences, BS
-Audio Production Minor
-Autism Spectrum Disorders Graduate Certificate
-Aviation Flight Training and Management Minor
-Biodefense Graduate Certificate
-Biodefense, MS
-Biodefense, PhD
-Bioengineering Minor
-Bioengineering, BS
-Bioengineering, MS
-Bioengineering, PhD
-Bioinformatics and Computational Biology Graduate ...
-Bioinformatics and Computational Biology, MS
-Bioinformatics and Computational Biology, PhD
-Bioinformatics Management, MS
-Bioinformatics Management, Professional Science Ma...
-Bioinformatics Minor
-Biology Minor
-Biology, BA
-Biology, BS
-Biology, MS
-Biosciences, PhD
-Biostatistics, MS
-Blindness and Visual Impairments PK-12 Licensure G...
-Brain, Body and Behavior Minor
-Business Administration, MBA
-Business Analytics Graduate Certificate
-Business Analytics Minor
-Business Analytics, MS
-Business Fundamentals Graduate Certificate
-Business Minor
-Business, BS
-Business, PhD
-Cell and Molecular Biology Graduate Certificate
-Chemistry and Biochemistry, PhD
-Chemistry Minor
-Chemistry, BA
-Chemistry, BS
-Chemistry, MS
-Chief Information Officer Graduate Certificate
-Childhood Studies Minor
-Chinese Minor
-Civil and Infrastructure Engineering, BS
-Civil and Infrastructure Engineering, MS
-Civil and Infrastructure Engineering, PhD
-Classical Studies Minor
-Climate Dynamics, PhD
-Climate Science, MS
-Clinical Psychology Minor
-Coaching Minor
-Cognitive Neuroscience Graduate Certificate
-College Teaching Graduate Certificate (ENGL)
-College Teaching Graduate Certificate (HE)
-Communication Minor
-Communication, BA
-Communication, MA
-Communication, PhD
-Community and Public Writing Minor
-Community Health, BS
-Computational and Data Sciences Minor
-Computational and Data Sciences, BS
-Computational Science, MS
-Computational Sciences and Informatics, PhD
-Computational Social Science Graduate Certificate
-Computational Social Science, PhD
-Computer Engineering, BS
-Computer Engineering, MS
-Computer Game Design Minor (CVPA)
-Computer Game Design, BFA
-Computer Science Minor
-Computer Science Undergraduate Certificate
-Computer Science, BS
-Computer Science, MS
-Computer Science, PhD
-Computing Foundations Graduate Certificate
-Conflict Analysis and Resolution Graduate Certificate
-Conflict Analysis and Resolution Minor
-Conflict Analysis and Resolution, BA
-Conflict Analysis and Resolution, BS
-Conflict Analysis and Resolution, MS
-Conflict Analysis and Resolution, PhD
-Conservation Biology Minor
-Conservation Studies Minor (CHSS)
-Conservation Studies Minor (COS)
-Contemporary Dispute Resolution Graduate Certificate
-Counseling Graduate Certificate
-Counseling, MEd
-Creative Writing, BFA
-Creative Writing, MFA
-Criminal Justice, MS
-Criminology, Law and Society Minor
-Criminology, Law and Society, BA
-Criminology, Law and Society, BS
-Criminology, Law and Society, MA
-Criminology, Law and Society, PhD
-Cultural Studies, PhD
-Curriculum and Instruction, MEd
-Cyber Security Engineering, BS
-Cyber Security Engineering, MS
-Dance Appreciation Minor
-Dance, BFA
-Data Analysis Minor
-Data Analytics Engineering, MS
-Data Analytics Graduate Certificate
-Data Science Graduate Certificate
-Design and Technical Theater Minor
-Design Thinking Minor
-Developmental Psychology Minor
-Digital Forensics, MS
-Digital Humanities Minor
-Digital Media and Web Design Minor (CEC)
-Digital Media and Web Design Minor (CHSS)
-Digital Media and Web Design Minor (CVPA)
-Digital Public Humanities Graduate Certificate
-Dynamic Publishing Minor
-Early Childhood Education (PK-3) Licensure Graduat...
-Early Childhood Education for Diverse Learners Minor
-Early Childhood Education for Diverse Learners, BSEd
-Early Childhood Special Education Licensure Gradua...
-Earth Science Minor
-Earth Systems and Geoinformation Sciences, PhD
-Earth Systems Science, MS (AOES)
-Earth Systems Science, MS (GGS)
-Economics Minor
-Economics, BA
-Economics, BS
-Economics, MA
-Economics, PhD
-Education Assessment, Evaluation, and Data Literac...
-Education Leadership Graduate Certificate
-Education Leadership, MEd
-Education Policy Graduate Certificate
-Education, PhD
-Educational Psychology Minor
-Educational Psychology, MS
-Electrical and Computer Engineering Minor
-Electrical and Computer Engineering, PhD
-Electrical Engineering, BS
-Electrical Engineering, MS
-Elementary Education, BSEd
-Emergency Management and Homeland Security Graduat...
-Energy Transition Management Minor
-English Minor
-English, BA
-English, MA
-Entrepreneurship Minor
-Environmental and Sustainability Management Gradua...
-Environmental and Sustainability Studies, BA (CHSS)
-Environmental and Sustainability Studies, BA (COS)
-Environmental Consulting Minor
-Environmental Engineering Minor
-Environmental GIS and Biodiversity Conservation Gr...
-Environmental Policy Minor
-Environmental Science and Policy, MS
-Environmental Science and Public Policy, PhD
-Environmental Science Minor
-Environmental Science, BS
-Epidemiology Graduate Certificate
-Ethics and AI Minor
-Ethnomusicology Minor
-Event Technical Production Minor (CEHD)
-Event Technical Production Minor (CVPA)
-Film and Video Studies Minor
-Film and Video Studies, BA
-Finance Minor
-Finance, MS
-Folklore and Mythology Minor
-Folklore Studies Graduate Certificate
-Food and Beverage Management Undergraduate Certificate
-Food Systems Minor
-Foreign Languages, BA
-Foreign Languages, MA
-Forensic Accounting Graduate Certificate
-Forensic Psychology Minor
-Forensic Science Minor
-Forensic Science, BS
-Forensic Science, MS
-Forensics Graduate Certificate
-French Minor
-Geographic and Cartographic Sciences, MS
-Geographic Information Science Graduate Certificate
-Geographic Information Systems Minor
-Geography Minor
-Geography, BA
-Geography, BS
-Geoinformatics and Geospatial Intelligence, MS
-Geology Minor
-Geology, BA
-Geology, BS
-Geospatial Intelligence Graduate Certificate
-German Studies Minor
-Gerontology Graduate Certificate
-Gifted Education Graduate Certificate
-Global Affairs Minor
-Global Affairs, BA
-Global Affairs, MA
-Global Commerce and Policy, MA
-Global Dance Minor
-Global Economic Policy Graduate Certificate
-Global Health and Security Graduate Certificate
-Global Health Graduate Certificate
-Global Health Minor
-Global Health, MS
-Global IT Leadership Graduate Certificate
-Global Systems Minor
-Globally Responsible Business Practices Minor
-Government Accounting Graduate Certificate
-Government Analytics Minor (COS)
-Government Analytics Minor (Schar)
-Government and International Politics, BA
-Government Contracting Minor
-Graphic Design Minor
-Graphic Design Undergraduate Certificate
-Health Administration, BS
-Health and Social Policy Minor
-Health and Social Policy Minor
-Health Communication Minor
-Health Informatics and Data Analytics Graduate Cer...
-Health Informatics, BS
-Health Informatics, MS
-Health Information Technology Minor
-Health Practice Management Undergraduate Certificate
-Health Psychology Minor
-Health Services Research, PhD
-Health Systems Management Minor
-Health Systems Management, MHA
-Health, Disease, and Culture Minor
-Healthcare Quality Graduate Certificate
-Higher Education Administration Graduate Certificate
-Higher Education and Student Development, MA
-History Minor
-History, BA
-History, MA
-History, PhD
-Hospitality Management Minor
-Human Development and Family Science Minor
-Human Development and Family Science, BA
-Illicit Trade Analysis Graduate Certificate
-Illustration Minor
-Immigration Studies Minor
-Individualized Study, BIS
-Industrial/Organizational Psychology Minor
-Information Sciences Graduate Certificate
-Information Security and Assurance Graduate Certificate
-Information Security and Assurance, MS
-Information Security Management Graduate Certificate
-Information Systems, MS (CS)
-Information Systems, MS (IST)
-Information Technology Minor
-Information Technology Undergraduate Certificate
-Information Technology, BS
-Information Technology, PhD
-Integrative Studies, BA
-Integrative Studies, BS
-Intelligence Studies Minor
-Interdisciplinary Studies, MAIS
-International Baccalaureate (IB) in Teaching and L...
-International Business Minor
-International School Leadership Practice Graduate ...
-International Security and Law, BA
-International Security Minor
-International Security, MA
-International/Comparative Studies Minor
-INTO Mason: Engineering Graduate Pathways
-INTO Mason: Humanities and Social Sciences Graduat...
-Islamic Studies Minor
-IT Strategy and Digital Transformation Graduate Ce...
-Italian Studies Minor
-Japanese Studies Minor
-Jazz Studies Minor
-Journalism Minor
-Judaic Studies Minor
-Kinesiology Minor
-Kinesiology, BS
-Kinesiology, MS
-Korean Studies Minor
-Latin American Studies Minor
-Latin Minor
-Leadership Minor
-Learning Design and Technology, MS
-Learning Technologies Graduate Certificate
-Legal Studies Minor
-LGBTQ Studies Minor
-Linguistics Minor
-Linguistics, PhD
-Linguistics: Teaching English to Speakers of Other...
-Literacy/Reading Instruction Graduate Certificate
-Literature and Composition Graduate Certificate
-Management Information Systems Minor
-Management, MS
-Marketing Minor
-Marketing, MS
-Mass Atrocity and Genocide Prevention Graduate Cer...
-Mathematics for School of Business Students Minor
-Mathematics Minor
-Mathematics, BA
-Mathematics, BS
-Mathematics, MS
-Mathematics, PhD
-Mechanical Engineering Minor
-Mechanical Engineering, BS
-Medical Laboratory Science, BS
-Medieval Studies Minor
-Middle East and Islamic Studies Graduate Certificate
-Middle East and Islamic Studies, MA
-Middle East Studies Minor
-Mild Disabilities Minor
-Music Education Licensure for PK-12 Graduate Certi...
-Music Education, PhD
-Music for Well-Being Graduate Certificate
-Music for Well-Being Minor
-Music Minor
-Music Pedagogy Minor
-Music Technology Minor
-Music, BA
-Music, BM
-Music, MM
-Musical Arts, DMA
-National Security and Public Policy Graduate Certi...
-Native American and Indigenous Studies Minor
-Naval Ship Design Graduate Certificate
-Neuroscience Minor
-Neuroscience, BS
-Neuroscience, PhD
-Nonprofit Management Graduate Certificate
-Nonprofit Studies Minor
-Nursing Education Graduate Certificate
-Nursing, BSN
-Nursing, DNP
-Nursing, MSN
-Nursing, PhD
-Nutrition Graduate Certificate
-Nutrition Minor
-Nutrition, MS
-Ocean and Estuarine Science Minor
-Operations and Supply Chain Management Minor
-Operations Research and Engineering Graduate Certi...
-Operations Research, MS
-Organization Development and Knowledge Management, MS
-Organizational Conflict Resolution Minor (SBUS)
-Organizational Conflict Resolution Minor (TCS)
-Paleontology Minor
-Peace Engineering Minor
-Personal Health and Wellness Minor
-Philosophy and Law Minor
-Philosophy for Social Change Minor
-Philosophy Minor
-Philosophy, BA
-Philosophy, MA
-Photography Minor
-Photojournalism Minor (CHSS)
-Photojournalism Minor (CVPA)
-Physical Activity in Public Health Minor
-Physical Education, BSEd
-Physics Minor
-Physics, BS
-Physics, PhD
-Political Communication Minor (CHSS)
-Political Communication Minor (Schar)
-Political Philosophy Minor
-Political Science, MA
-Political Science, PhD
-Pre-Medical Undergraduate Certificate
-Professional and Technical Writing Graduate Certificate
-Professional and Technical Writing Minor
-Professional Experience in Communication Minor
-Psychiatric Mental Health Nurse Practitioner Gradu...
-Psychology Minor
-Psychology, BA
-Psychology, BS
-Psychology, MA (CEHD)
-Psychology, MA (CHSS)
-Psychology, PhD
-Public Administration, BS
-Public Administration, MPA
-Public Health Graduate Certificate
-Public Health Minor
-Public Health, MPH
-Public Health, PhD
-Public Management Graduate Certificate
-Public Policy and Management Minor
-Public Policy, MPP
-Public Policy, PhD
-Publishing Practice Graduate Certificate
-Real Estate Development Minor
-Real Estate Development, MS
-Recreation Management Minor
-Recreation Management, BS
-Religious Studies Minor
-Religious Studies, BA
-Remote Sensing and Image Processing Graduate Certi...
-Renewable Energy Interdisciplinary Minor
-Research Methods Graduate Certificate
-Russian and Eurasian Studies, BA
-Russian Minor
-School Psychology Graduate Certificate
-Science and Technology Policy Minor
-Science Communication Graduate Certificate
-Science Policy Graduate Certificate
-Science, Technology, and Security Graduate Certificate
-Scientific Leadership and Practice Minor
-Screen Cultures Minor
-Secondary Education - Biology (6-12) Undergraduate...
-Secondary Education - Chemistry (6-12) Undergradua...
-Secondary Education - Computer Science (6-12) Unde...
-Secondary Education - Earth Science (6-12) Undergr...
-Secondary Education - English (6-12) Undergraduate...
-Secondary Education - Mathematics (6-12) Undergrad...
-Secondary Education - Physics (6-12) Undergraduate...
-Secondary Education Licensure Graduate Certificate
-Senior Housing Administration Minor
-Severe Disabilities Minor
-Small Satellite Engineering Graduate Certificate
-Social Justice and Human Rights Minor
-Social Work Minor
-Social Work, BSW
-Social Work, MSW
-Sociology Minor
-Sociology, BA
-Sociology, MA
-Sociology, PhD
-Software Engineering Graduate Certificate
-Software Engineering Minor
-Software Engineering, MS
-Spanish Heritage Language Education Graduate Certi...
-Spanish Minor
-Special Education, BSEd
-Special Education, MEd
-Specialized Reading Instruction for Students with ...
-Sport and American Culture Minor (CEHD)
-Sport and American Culture Minor (CHSS)
-Sport and Computer Game Design Minor (CEHD)
-Sport and Computer Game Design Minor (CVPA)
-Sport and Conflict Resolution Minor (CEHD)
-Sport and Conflict Resolution Minor (TCS)
-Sport and Recreation Studies, MS
-Sport Coaching Graduate Certificate
-Sport Communication Minor (CEHD)
-Sport Communication Minor (CHSS)
-Sport Management Graduate Certificate
-Sport Management Minor
-Sport Management, BS
-Sports Analytics Minor (CEHD)
-Statistical Science, MS
-Statistical Science, PhD
-Statistics Minor
-Statistics, BS
-STEM in Society Minor
-STEM in Society Minor (CEC)
-STEM in Society Minor (COS)
-Strategic Trade Graduate Certificate
-Studio Art Minor
-Sustainability Studies Minor
-Sustainable Enterprise Minor
-Sustainable Systems Engineering Minor
-Systems and Industrial Engineering, BS
-Systems Engineering and Operations Research, PhD
-Systems Engineering Graduate Certificate (ECE)
-Systems Engineering Graduate Certificate (SEOR)
-Systems Engineering Minor
-Systems Engineering, MS
-Tactical Athlete Strength, Conditioning and Injury...
-Taxation, MS
-Teaching English as a Second Language Minor
-Teaching English to Speakers of Other Languages (T...
-Teaching Theatre PK-12 Graduate Certificate
-Technology Management, MS
-Telecommunications, MS
-Terrorism and Homeland Security Graduate Certificate
-Theater Minor
-Theater Performance Minor
-Theater, BA
-Theater, BFA
-Tourism and Events Management Minor
-Tourism and Events Management, BS
-Urban and Suburban Studies Minor
-Urban Informatics Minor
-Visual and Performing Arts, MFA
-Visual Impairment and Blindness Minor
-Web Design Minor
-Well-Being Minor
-Wine and Craft Beverage Management Minor (CEHD)
-Wine and Craft Beverage Management Minor (SBUS)
-Women and Gender Studies Graduate Certificate
-Women and Gender Studies Minor
-Writing and Rhetoric, PhD
+Program: Accounting Analytics Graduate Certificate
+Description: The Accounting Analytics Graduate Certificate is for students and working professionals to pair their accounting knowledge and skills with data and analytical knowledge. The certificate program will provide a building block for Master's in Accounting students and working professionals seeking a career change or advancement and provides a foundation to compete for current accounting employment opportunities. To verify if this certificate currently qualifies for Title IV Federal Financial Aid please visit theunit website.
+Link for more info: https://catalog.gmu.edu/colleges-schools/business/accounting-analytics-graduate-certificate/index.html
+Program: Accounting Undergraduate Certificate
+Description: This program provides an opportunity for nondegree-seeking students to earn the academic credit necessary to sit for the Uniform CPA Examination in Virginia.
+Link for more info: https://catalog.gmu.edu/colleges-schools/business/accounting-undergraduate-certificate/index.html
+Program: Accounting for Government Contracts Graduate Certificate
+Description: The 12-credit Graduate Certificate in Accounting for GovernmentContracts provides an opportunity for students to acquire education in the field of governmentaccounting with a federal government contracting emphasis. George Mason isuniquely situated in the federal government space. Additionally, courses in thecertificate program will also help prepare students to sit for the CertifiedGovernment Financial Manager (CGFM) exams sponsored by the Associationof Government Accountants (AGA).Courses taken in the Graduate Certificate in Accounting for Government Contracts can be applied towards the Master of Science in Accounting.To verify if this certificate currently qualifies for Title IV Federal Financial Aid please visit the unitwebsite.
+Link for more info: https://catalog.gmu.edu/colleges-schools/business/accounting-government-contracts-graduate-certificate/index.html
+Program: Accounting, MS
+Description: The Master of Science in Accounting integrates fundamental business skills and specialized knowledge and acumen required by the accounting profession. Courses can be pursued face-to-face or online.
+Link for more info: https://catalog.gmu.edu/colleges-schools/business/accounting-ms/index.html
+Program: Actuarial Sciences Graduate Certificate
+Description: The Actuarial Sciences Graduate Certiﬁcate is designed to serve students and professionals who are interested in pursuing careers as actuaries. The course content provides students with speciﬁc training related to the following exams administered by the Society of Actuaries (SOA):
+Link for more info: https://catalog.gmu.edu/colleges-schools/science/mathematical-sciences/actuarial-sciences-graduate-certificate/index.html
+Program: Add-On Endorsement in Special Education, General Curriculum Graduate Certificate
+Description: This certificate is designed for elementary and secondary education teachers. Coursework provides knowledge and skills for working with students with disabilities, and meets Virginia Department of Education (VDOE) requirements for teachers endorsed in elementary education (such as early/primary education preK-3 or elementary education preK-6) or in English, history and social sciences, mathematics, biology, chemistry, Earth science, or physics to add a grade level endorsement in special education: general curriculum.
+Link for more info: https://catalog.gmu.edu/colleges-schools/education-human-development/school-education/special-education-general-curriculum-add-on-endorsement-graduate-certificate/index.html
+Program: Advanced Biomedical Sciences Graduate Certificate
+Description: The Advanced Biomedical Sciences (ABS) graduate certificate is a program offered jointly by George Mason University andGeorgetown University Medical Center (GUMC). This program is designed for students who have all of their core coursework and extracurricular prerequisites for medical, dental or other health-related fields, but otherwise have a comparatively limited science background (non-science majors with only the pre-health curricular core, for example), modest grades in the sciences as undergraduates, and/or also need to improve their Medical College Admission Test, Dental Admission Test, or other pre-professional scores. This is a 9-month full-time program that begins each fall semester. Most classes are held at George Mason University's Science and Technology Campus in Manassas, Virginia with cadaveric anatomy labs held at GUMC.
+Link for more info: https://catalog.gmu.edu/colleges-schools/science/advanced-biomedical-sciences-graduate-certificate/index.html
+Program: Advanced Networking Protocols for Telecommunications Graduate Certificate
+Description: The Advanced Networking Protocols for Telecommunications certificate program offers courses on Internet Routing and Network Security. This graduate certificate program is designed for those who are working in or planning to work in the telecommunication industry but do not want to complete requirements for a master's degree in the field. The certificate may be pursued on a part-time or full-time basis. The certificate may also be pursued concurrently with any of the graduate degree programs in the College of Engineering and Computing.
+Link for more info: https://catalog.gmu.edu/colleges-schools/engineering-computing/engineering/electrical-computer/advanced-networking-protocols-telecommunications-graduate-certificate/index.html
+Program: African and African American Studies Minor
+Description: In this minor, students will examine the cultural, historical, economic, and political dimensions and experiences of people of African descent in America, the Caribbean, Africa, and throughout the Diaspora. Students will learn theories and methodologies that are used to examine the complex dynamics of race, class, gender, and ethnicity in America. Through this minor, students are able to develop critical and analytical approaches to societal issues because such issues are addressed and delineated through a variety of academic disciplines.
+Link for more info: https://catalog.gmu.edu/colleges-schools/humanities-social-sciences/african-american-studies/african-american-studies-minor/index.html
+Program: Aging Studies Minor
+Description: The minor in aging studies combines theoretical and applied coursework in aging with the student's undergraduate curriculum in any department of the university. Because aging studies is by definition multidisciplinary, students are required to take coursework outside their major field.
+Link for more info: https://catalog.gmu.edu/colleges-schools/public-health/social-work/aging-studies-minor/index.html
+Program: American Government Minor
+Description: The minor in American government provides students the opportunity to focus on the most relevant features of American government, its institutions, the political behavior of its citizens and leaders, and the defining political questions of our time.
+Link for more info: https://catalog.gmu.edu/colleges-schools/policy-government/american-government-minor/index.html
+Program: American Sign Language Minor
+Program: Ancient History and Mediterranean Archaeology Minor
+Description: This interdisciplinary minor is for students with diverse interests in the material culture of the ancient world. Coursework combines the study of archaeology, literature, art, history, philosophy, myth, and religion. The scope of the minor is not limited to Greece and Rome but touches on all the ancient civilizations of the Mediterranean and the heirs of late antiquity such as Byzantium and early Islam.
+Link for more info: https://catalog.gmu.edu/colleges-schools/humanities-social-sciences/history-art/ancient-history-mediterranean-archaeology-minor/index.html
+Program: Animation Minor
+Program: Anthropology Minor
+Description: A minor in anthropology enriches many majors with its holistic and cross-cultural perspective. It is a good fit for students majoring in biology, communication, English, history, psychology, sociology, and others. This minor will be useful for anyone contemplating an international career or a future profession involving culturally-diverse populations.
+Link for more info: https://catalog.gmu.edu/colleges-schools/humanities-social-sciences/sociology-anthropology/anthropology-minor/index.html
+Program: Anthropology, BA
+Description: Anthropology is the study of human beings and their cultures. Majors develop an eye for detail and careful observation, critical thinking, sensitivity to the unfamiliar, skills in research and writing, and an ability to describe and understand culture. The programs in archaeology and biological anthropology give hands-on research experience with faculty through fieldwork in bioarchaeology, archaeology, and museum-based data collection. The programs in cultural anthropology connect anthropological research to current social challenges such as health and disease, urbanization, and geopolitics. It is a strong undergraduate major that provides sound interdisciplinary preparation for a variety of careers.
+Link for more info: https://catalog.gmu.edu/colleges-schools/humanities-social-sciences/sociology-anthropology/anthropology-ba/index.html
+Program: Anthropology, MA
+Description: Master of Arts in Anthropology students learn the history of critical inquiry in the discipline of anthropology and how to approach and develop a topic of research. Students are trained in fieldwork and ethnographic methods appropriate for their goals and are guided through the research and writing methods central to completion of a thesis or project. In the process, students learn about the ethics of conducting research. Students may focus on cultural anthropology or bioarchaeology. The program prepares students for careers in government, the private sector, non-governmental organizations, museums, and numerous other fields, or to pursue a doctorate in the field.
+Link for more info: https://catalog.gmu.edu/colleges-schools/humanities-social-sciences/sociology-anthropology/anthropology-ma/index.html
+Program: Applied Behavior Analysis Graduate Certificate
+Description: This 21-credit non-licensure certificate is designed to increase the professional training of individuals responsible for designing, implementing, and monitoring behavioral treatment programs in schools and agencies, such as psychiatric hospitals.
+Link for more info: https://catalog.gmu.edu/colleges-schools/education-human-development/school-education/applied-behavior-analysis-graduate-certificate/index.html
+Program: Applied Computer Science, BS
+Description: This program presents an innovative approach to the integration of computer science with other disciplines that require expertise in computing techniques. These disciplines do not merely use computing but create new and interesting problems for computer scientists.
+Link for more info: https://catalog.gmu.edu/colleges-schools/engineering-computing/school-computing/computer-science/applied-computer-science-bs/index.html
+Program: Applied Cyber Security Graduate Certificate
+Description: This graduate certificate offers courses in four key elements of cyber security. It is designed for professionals who work for, or in support of, U.S. federal agencies and provides post-bachelor's academic preparation for students who may not wish to complete a full master's degree program as well as for master's graduates who wish to take the topic-specific courses the certificate provides.
+Link for more info: https://catalog.gmu.edu/colleges-schools/engineering-computing/school-computing/information-sciences-technology/applied-cyber-security-graduate-certificate/index.html
+Program: Applied Industrial and Organizational Psychology, MPS
+Description: George Mason University's online Master of Professional Studies in Applied Industrial and Organizational Psychology provides instruction in research-backed methods and understanding of data and analytics. It is intended to give HR professionals and business professionals the skills they need to foster a culture where each employee feels empowered and motivated to contribute new ideas, effect change, and do their best work every day. Students learn how to assess and evaluate candidates to determine their fit for the company and specific positions, identify employees’ individual motivations, establish meaningful evaluations and reward systems, and improve training and performance programs. Main areas of study focus on understanding and applying concepts in: research and data analytic methods, evidence-based practices, and client communication skills.
+Link for more info: https://catalog.gmu.edu/colleges-schools/humanities-social-sciences/psychology/applied-industrialorganizational-psychology-mps/index.html
+Program: Applied Information Technology, MS
+Description: The MS in Applied Information Technology is the very best graduate education in IT for high-potential leaders, especially those working on IT solutions that affect the federal government, industry or non-profit. Its objective is to graduate individuals of competence and character who can lead multidisciplinary teams in the design, justification, development, management, and sustainment of mega-systems from data to decision in the private and federal sectors. The MS in AIT provides a high quality curricula for students seeking to pursue their careers in the leading IT areas including Cyber Security, Big Data Analytics, Knowledge Mining, Data Analytics in Social Media, and Cyber-Human Interaction.
+Link for more info: https://catalog.gmu.edu/colleges-schools/engineering-computing/school-computing/information-sciences-technology/applied-information-technology-ms/index.html
+Program: Applied Psychology Graduate Certificate
+Program: Applied Science, BAS
+Description: The Bachelor of Applied Science (BAS) is an undergraduate liberal arts degree program for students who hold an Associate of Applied Science (AAS) degree. It is designed primarily to deepen student knowledge in an academic area and foster critical thinking, analytic reasoning, and an ability to synthesize information.
+Link for more info: https://catalog.gmu.edu/colleges-schools/interdisciplinary-programs-courses/applied-science-bas/index.html
+Program: Applied Statistics Graduate Certificate
+Description: This graduate certiﬁcate trains students in data analysis and statistical methodology. It provides a clear record of additional instruction in statistics for future graduate programs or employers.
+Link for more info: https://catalog.gmu.edu/colleges-schools/engineering-computing/school-computing/statistics/applied-statistics-graduate-certificate/index.html
+Program: Applied and Engineering Physics, MS
+Description: This degree contains elements of traditional physics programs and the application of physics to a diversity of critical societal problems. The program is divided into concentrations; see theRequirementstab for details.
+Link for more info: https://catalog.gmu.edu/colleges-schools/science/physics-astronomy/applied-engineering-physics-ms/index.html
+Program: Arabic Minor
+Description: The minor has an emphasis on developing strong language skills: oral communication and the reading of texts. Students are also introduced to important works of Arabic literature and culture. A minor in Arabic can easily and effectively be combined with majors in other disciplines. It is especially valuable in combination with global affairs, international relations, security, journalism, philosophy, and religion.
+Link for more info: https://catalog.gmu.edu/colleges-schools/humanities-social-sciences/modern-classical-languages/arabic-minor/index.html
+Program: Art Education Licensure Graduate Certificate
+Description: Following this curriculum does not guarantee entry into theMaster of Art Teaching (MAT) Program. Prospective MAT students must meet all MAT admissions requirements.
+Link for more info: https://catalog.gmu.edu/colleges-schools/visual-performing-arts/art/art-education-licensure-graduate-certificate/index.html
+Program: Art History Minor
+Description: This minor covers a broad spectrum of periods, cultures, and themes, with an emphasis on historical context.
+Link for more info: https://catalog.gmu.edu/colleges-schools/humanities-social-sciences/history-art/art-history-minor/index.html
+Program: Art History, BA
+Description: Art History emphasizes the analysis of visual data in a historical context. Faculty expertise extends to many world regions—the United States, Latin America, Europe, the Mediterranean, South and Southeast Asia, China, and the Islamic world—and over all historical periods. Students apply what they learn through internship opportunities available in the Washington DC area, including the world-famous collections of the National Gallery of Art and the Smithsonian Institutions. Students go on to work in areas including museums, arts institutions, galleries, government and managerial positions. They also pursue further studies in fields including art history, library science, design technology, historic preservation, and fashion.
+Link for more info: https://catalog.gmu.edu/colleges-schools/humanities-social-sciences/history-art/art-history-ba/index.html
+Program: Art History, MA
+Description: Art History MA students combine traditional research with the application of new media, while accessing the opportunities offered through the cultural resources of the Washington, D.C. area. The program emphasizes new media skills, museum studies, and pre-professional internship training. Students study a broad range of art-historical periods, theory, and research methods. Faculty specialize in periods from ancient to contemporary, and in areas covering Europe, North and South America, Asia, and the Middle East. Graduates are well-prepared for art museum and gallery professional work, where a master's degree is now routinely required, or for further study in doctoral programs.
+Link for more info: https://catalog.gmu.edu/colleges-schools/humanities-social-sciences/history-art/art-history-ma/index.html
+Program: Art and Visual Technology, BA
+Program: Art and Visual Technology, BFA
+Program: Artist Graduate Certificate
+Program: Arts Education, MAT
+Description: The Master of Arts in Teaching in Art Education (MAT I) is a pre-service degree program that prepares students with a BFA degree or equivalent for PreK-12 art licensure by the Commonwealth of Virginia. Using a studio-based approach to art education and working closely with area public school systems, the MAT degree consists of 30 credits of graduate art education, school practicum experience, studio work, and pre-service teaching internship and seminar.
+Link for more info: https://catalog.gmu.edu/colleges-schools/visual-performing-arts/art/art-education-mat/index.html
+Program: Arts Management Minor
+Description: The fields of visual and performing arts offer many career paths that rely on a strong foundation in one or more art forms and require specific knowledge and skills in administration and management. The minor is open to allCVPA majorsas well asart history majors. Non-CVPA students must complete 9 credits of arts-related coursework to be eligible for this minor.
+Link for more info: https://catalog.gmu.edu/colleges-schools/visual-performing-arts/management/arts-management-minor/index.html
+Program: Arts Management, MA
+Description: The MA in Arts Management responds to a growing demand for graduates who can manage and coordinate the arts, bridging the worlds of performing and visual arts with applied managerial skills. The Washington, D.C. region is home to one of the nation's largest concentrations of arts organizations. The demand for arts managers with skills in financial and budgetary management, strategic management and entrepreneurship, and public relations, including marketing and advertising, has arguably never been more acute. The need for arts managers with skills in philanthropy, fund raising, and ongoing relationship management in the private and public arts sectors also continues to grow at a fast pace.
+Link for more info: https://catalog.gmu.edu/colleges-schools/visual-performing-arts/management/arts-management-ma/index.html
+Program: Arts and Social Change Minor
+Description: The minor leverages artistic and creative practice in an array of academic and social contexts. The goal is to infuse these practices into territories outside the traditional art world through research, participatory experimentation and documentary aesthetic aspects of social practice. With a focus on creative research and project production students experience direct engagement with communities while developing skills toward fostering positive change in communities via the arts.
+Link for more info: https://catalog.gmu.edu/colleges-schools/visual-performing-arts/art/arts-social-change-minor/index.html
+Program: Asia-Pacific and Northeast Asian Studies Minor
+Description: This interdisciplinary minor is for students whose interests focus on the humanities and social sciences and Asia's role in global systems and the cultural mosaic of human experience.
+Link for more info: https://catalog.gmu.edu/colleges-schools/humanities-social-sciences/global-affairs/asia-pacific-and-northeast-asian-studies-minor/index.html
+Program: Assistive Technology Graduate Certificate
+Description: This 15-credit non-licensure certificate provides supplemental training for practitioners, families, and caregivers who use assistive technology while working with people with disabilities. The certificate is appropriate for general and special educators, related service personnel, adult service providers, and families and caregivers who need to apply assistive technology solutions within their specific discipline or school, work, home, or community setting.
+Link for more info: https://catalog.gmu.edu/colleges-schools/education-human-development/school-education/assistive-technology-graduate-certificate/index.html
+Program: Assistive Technology Minor
+Description: This 15-credit minor provides undergraduate students with background knowledge in assistive technology.
+Link for more info: https://catalog.gmu.edu/colleges-schools/education-human-development/school-education/assistive-technology-minor/index.html
+Program: Astronomy Minor
+Description: This minor expands upon a student's understanding of both astronomy beyond the introductory level and of fundamental principles, and further develops analytical skills.
+Link for more info: https://catalog.gmu.edu/colleges-schools/science/physics-astronomy/astronomy-minor/index.html
+Program: Astronomy, BS
+Description: This program prepares students for graduate school, a career in research or teaching, or employment in industry, business, or education fields where analytical skills and a scientific background are advantageous. Students who are considering a double major should talk to the undergraduate coordinator.
+Link for more info: https://catalog.gmu.edu/colleges-schools/science/physics-astronomy/astronomy-bs/index.html
+Program: Astrophysics Minor
+Description: This minor expands upon a student's understanding of both astronomy beyond the introductory level and of fundamental principles, and further develops analytical skills. The minor is an attractive option for students majoring in science, technology, engineering, or mathematics (STEM).
+Link for more info: https://catalog.gmu.edu/colleges-schools/science/physics-astronomy/astrophysics-minor/index.html
+Program: Athletic Training, MS
+Description: This is a professional preparation program for aspiring athletic training healthcare professionals.
+Link for more info: https://catalog.gmu.edu/colleges-schools/education-human-development/school-kinesiology/athletic-training-ms/index.html
+Program: Atmospheric Science Minor
+Description: Topics of study in this minor include weather forecasting, climate change, and the predictability of coupled ocean-atmosphere-land-variations. Students in physics, math, engineering, and computational sciences may be particularly attracted to this minor because it provides a compelling application of the fundamental methods of analysis learned in their major. Such students are ideal candidates for research in atmospheric science and climate dynamics; the minor will facilitate entry into graduate studies in these fields.
+Link for more info: https://catalog.gmu.edu/colleges-schools/science/atmospheric-oceanic-earth-sciences/atmospheric-science-minor/index.html
+Program: Atmospheric Sciences, BS
+Description: The undergraduate program in atmospheric sciences gives students a strongquantitative undergraduate education in atmospheric, climate, and related sciences to understand the basic principles behind current and emerging issues in weather, climate variability, and climate change. Students completing the atmospheric sciences degree will be prepared for a full range of career paths including forecast and analysis, operations and research support in meteorology, numerical weather prediction, data analytics, and climate. The curriculum meets theAmerican Meteorological Society'srecommendations for a bachelor's degree in atmospheric sciences.
+Link for more info: https://catalog.gmu.edu/colleges-schools/science/atmospheric-oceanic-earth-sciences/atmospheric-sciences-bs/index.html
+Program: Audio Production Minor
+Description: Those students interested in exploring audio production in a purely music-based experience should consider theminor in Music Technology.
+Link for more info: https://catalog.gmu.edu/colleges-schools/visual-performing-arts/theater/audio-production-minor/index.html
+Program: Autism Spectrum Disorders Graduate Certificate
+Description: This 18-credit non-licensure certificate provides training in topic areas required to implement instructional programs for individuals with autism across their lifespan. The certificate is appropriate foreducators, interventionists,psychologists, pathologists, behavioranalysts, or family members who want to enhance their preparation for working with children and adults affected withautism spectrum disordersin a variety of educational, community and vocational settings.
+Link for more info: https://catalog.gmu.edu/colleges-schools/education-human-development/school-education/autism-spectrum-disorders-graduate-certificate/index.html
+Program: Aviation Flight Training and Management Minor
+Description: Students completing the minor will take classes for Pilot Ground School and Flight Training leading up to a solo flight. In addition, students will study aspects of aviation from systems engineering of air traffic control, design of airports, human factors and psychology, and financial planning and management. Students will be trained for required government licensing exams such as the Federal Aviation Administration (FAA) Knowledge Test and FAA Flight tests. Special fees to cover flight training costs will apply. Students are responsible for meeting all eligibility requirements.
+Link for more info: https://catalog.gmu.edu/colleges-schools/engineering-computing/engineering/systems-operations-research/aviation-flight-training-management-minor/index.html
+Program: Biodefense Graduate Certificate
+Description: The certificate provides an interdisciplinary introduction to man-made and natural biological threats, including a background in the science and technology of biodefense and the specialized areas of threat assessment, non-proliferation, and medical and public health preparedness. Students already pursuing a master's degree in the school may, after admission to a certificate program, in most cases, earn an additional six credits (two courses) in the Schar School to receive a certificate in addition to the master's degree.
+Link for more info: https://catalog.gmu.edu/colleges-schools/policy-government/biodefense-graduate-certificate/index.html
+Program: Biodefense, MS
+Description: The Master of Science in Biodefense prepares students to become the next generation of biodefense and biosecurity professionals and scholars. This program provides students with a foundation in microbiology and biotechnology combined with a broader security and organizational context.
+Link for more info: https://catalog.gmu.edu/colleges-schools/policy-government/biodefense-ms/index.html
+Program: Biodefense, PhD
+Description: This program is designed to prepare students to serve as scholars and professionals in the fields of biodefense and biosecurity. The program integrates knowledge of natural and man-made biological threats with the skills to develop and analyze policies and strategies for enhancing biosecurity. Other areas of biodefense, including nonproliferation, intelligence and threat assessment, and medical and public health preparedness are integral parts of the program.
+Link for more info: https://catalog.gmu.edu/colleges-schools/policy-government/biodefense-phd/index.html
+Program: Bioengineering Minor
+Description: The minor in Bioengineering is available to both engineering and non-engineering majors. It provides considerable opportunities in a highly cross-disciplinary field involving the application of engineering concepts and tools to solve problems in biomedicine. The minor in Bioengineering prepares students to gain and reinforce their knowledge of biology and engineering fundamentals, and develop and apply skills to clinically-relevant challenges.
+Link for more info: https://catalog.gmu.edu/colleges-schools/engineering-computing/engineering/bioengineering/bioengineering-minor/index.html
+Program: Bioengineering, BS
+Description: Bioengineering, also referred to as biomedical engineering, is the application of engineering tools and approaches to solve problems in biology and medicine. It is a broad and growing ﬁeld that draws upon rapid advances in technology and computation, as well as on unprecedented growth in basic biological understanding.
+Link for more info: https://catalog.gmu.edu/colleges-schools/engineering-computing/engineering/bioengineering/bioengineering-bs/index.html
+Program: Bioengineering, MS
+Description: The MS in Bioengineering prepares students for research and professional practice in bioengineering and related fields. The program includes both fundamentals and advanced work to apply engineering techniques to solve problems in biology and medicine. A major distinguishing feature of the curriculum is that it is designed to educate leaders who understand and appreciate how biomedical technology is translated from bench to bedside. Graduates from this program will eventually work in universities, industry or government in a variety of roles due to the breadth of this program and its content specific clinical translation of new technologies.
+Link for more info: https://catalog.gmu.edu/colleges-schools/engineering-computing/engineering/bioengineering/bioengineering-ms/index.html
+Program: Bioengineering, PhD
+Description: Rapid technologically driven advances in understanding and treating human disease have opened up vast opportunities to advance human health through research that integrates engineering, basic sciences, medical sciences, and knowledge of industry practices. The doctoral program will prepare leaders in bioengineering in this broader, integrative sense of the discipline. A major distinguishing feature of the curriculum is its emphasis on understanding how biomedical technology is translated from bench to bedside. Graduates from this program will eventually work in universities, industry or government in a variety of roles, including scientific research, technology development, and regulatory affairs.
+Link for more info: https://catalog.gmu.edu/colleges-schools/engineering-computing/engineering/bioengineering/bioengineering-phd/index.html
+Program: Bioinformatics Management, MS
+Description: This degree addresses the regional and national need for technically trained managers who will be able to lead teams of bioinformaticians in both the public and private sectors. The degree combines a solid foundation in bioinformatics research, tools, and techniques, with the management skills needed to address the associated legal, ethical, managerial, and business issues. The degree is intended for:
+Link for more info: https://catalog.gmu.edu/colleges-schools/science/systems-biology/bioinformatics-management-ms/index.html
+Program: Bioinformatics Management, Professional Science Master's
+Description: 
+Link for more info: https://catalog.gmu.edu/colleges-schools/science/systems-biology/bioinformatics-management-professional-science-masters/index.html
+Program: Bioinformatics Minor
+Description: This minor is an interdisciplinary program consisting of required courses in biology, programming, statistics, and bioinformatics.
+Link for more info: https://catalog.gmu.edu/colleges-schools/science/systems-biology/bioinformatics-minor/index.html
+Program: Bioinformatics and Computational Biology Graduate Certificate
+Description: This graduate certificate addresses the growing national and regional demand for trained computational biologists by combining a solid foundation in biotechnology with computational skills relevant to bioinformatics. With online and onsite courses, the flexibility of this certificate's structure permits students to custom design their curriculum under an advisor's guidance, making the graduate certificate especially relevant for students employed in today's diverse Northern Virginia high-technology workplace. Ideal candidates for this certificate are those who have a background in biological and computer sciences, and are currently working in or planning to enter the fields of biotechnology or bioinformatics. The certificate is also highly relevant for students who are interested in advancing their career goals but may not have adequate time available to undertake a graduate degree program.
+Link for more info: https://catalog.gmu.edu/colleges-schools/science/systems-biology/bioinformatics-computational-biology-graduate-certificate/index.html
+Program: Bioinformatics and Computational Biology, MS
+Description: In the field of bioinformatics and computational biology, specialists collect, store, analyze and present complex biological data. Through this work, critical contributions are made to basic biology, disease detection, drug design, modeling biosystems, forensics, agriculture, and environmental sciences through the combination of biological analysis and high-performance computing. This degree addresses the growing national and regional demand for trained computational biologists. It combines a solid foundation in biotechnology with the computational skills required for bioinformatics. The flexibility of the degree structure permits students to custom design their curriculum under an advisor's guidance, making the program especially relevant for students employed in today's diverse biotechnology workplace. Students completing the program are qualified to pursue careers that require knowledge of current bioinformatics methods and applications, and the ability to develop and/or use new bioinformatics software.
+Link for more info: https://catalog.gmu.edu/colleges-schools/science/systems-biology/bioinformatics-computational-biology-ms/index.html
+Program: Bioinformatics and Computational Biology, PhD
+Description: In the field of bioinformatics and computational biology, specialists collect, store, analyze, model, and present complex biological data to understand how individual components of biological systems and the interactions between them inform function at all levels of biological hierarchy. Through the combination of biological analysis and high-performance computing, critical contributions are made to biomedical, agricultural, and environmental sciences. The main objective of this doctorate is to educate the next generation of computational biologists for careers in academia, industry, and government. The program provides students with interdisciplinary academic training that includes fundamental bioscience courses as well as core and advanced courses in bioinformatics. The curriculum is designed to be completed in approximately two years. The completion of coursework, the comprehensive exam, and a successful dissertation proposal result in advancement to candidacy status. In the final phase of the program, students focus on research that culminates in a dissertation.
+Link for more info: https://catalog.gmu.edu/colleges-schools/science/systems-biology/bioinformatics-computational-biology-phd/index.html
+Program: Biology Minor
+Description: The Biology Minor offers a wide range of benefits for students pursuing various career paths. Biology is a broad field that encompasses the study of living organisms, their structure, function, and evolution. The minor provides students with a foundation in basic biological concepts, scientific methodology, and laboratory techniques. This knowledge and skillset are applicable to many fields, including healthcare, education, research, policy, and environmental science.
+Link for more info: https://catalog.gmu.edu/colleges-schools/science/biology/biology-minor/index.html
+Program: Biology, BA
+Description: The Bachelor of Arts in Biology provides a sound liberal arts education with substantial experience in quantitative and analytical thought, along with preparation for related professions. The program provides the strong background necessary for not only graduate study in the life sciences, but also enables students to develop careers in a wide variety of disciplines, including teaching, environmental management, microbiology, molecular biology, biotechnology, genetics, wildlife management, fisheries biology, and marine science. Furthermore, our curriculum prepares students for careers in the health sciences including medicine, dentistry, veterinary science, and related allied health disciplines.
+Link for more info: https://catalog.gmu.edu/colleges-schools/science/biology/biology-ba/index.html
+Program: Biology, BS
+Description: The Bachelor of Science in Biology provides a sound liberal arts education with substantial experience in quantitative and analytical thought, along with preparation for related professions. The program provides the strong background necessary for not only graduate study in the life sciences, but also enables students to develop careers in a wide variety of disciplines, including teaching, environmental management, microbiology, molecular biology, biotechnology, genetics, wildlife management, fisheries biology, and marine science. Furthermore, our curriculum prepares students for careers in the health sciences including medicine, dentistry, veterinary science, and related allied health disciplines.
+Link for more info: https://catalog.gmu.edu/colleges-schools/science/biology/biology-bs/index.html
+Program: Biology, MS
+Description: This program provides advanced training for college graduates or professionals seeking careers in the biomedical research, biotechnology, neuroscience or biodefense, as well as evolutionary and animal biology, animal biology and biology teaching. Master's level concentrations are available in microbiology and infectious disease, molecular biology, neuroscience, evolutionary biology, and translational and clinical research. Alternatively, students may choose the program in general biological sciences, which allows flexibility to build a degree program tailored to a specific research or career interest.
+Link for more info: https://catalog.gmu.edu/colleges-schools/science/systems-biology/biology-ms/index.html
+Program: Biosciences, PhD
+Description: This program is a research-oriented field of study that prepares students for significant contributions in academic or industrial settings. It is broken down into three concentrations: Cell and Molecular Biology, Microbiology and Infectious Disease, and Biocomplexity and Evolutionary Biology.
+Link for more info: https://catalog.gmu.edu/colleges-schools/science/systems-biology/biosciences-phd/index.html
+Program: Biostatistics, MS
+Description: The MS in Biostatistics will allow students to specialize in the design and analysis of health-related and biological studies, while maintaining the rigor and technical training of the Statistical Science master's program.
+Link for more info: https://catalog.gmu.edu/colleges-schools/engineering-computing/school-computing/statistics/biostatistics-ms/index.html
+Program: Blindness and Visual Impairments PK-12 Licensure Graduate Certificate
+Description: This 26-credit Graduate Certificate provides teacher candidates with the tools they need to work with students who are blind and visually impaired, including those who have multiple disabilities and diverse learner characteristics. Candidates will gain skills and knowledge to support students in a variety of settings, including general and special education, in core content, and the Expanded Core Curriculum. This concentration is designed for candidates seeking Virginia initial teacher licensure in special education blindness and visual impairments preK-12.
+Link for more info: https://catalog.gmu.edu/colleges-schools/education-human-development/school-education/blindness-visual-impairments-pk-12-licensure-graduate-certificate/index.html
+Program: Brain, Body and Behavior Minor
+Description: The courses included in this minor emphasize the behavioral consequences of both normal and abnormal neuronal and physiological processes. These in-depth courses will broaden the students' knowledge in understanding brain and behavior, specifically, but not exclusively, the cognitive aspects.
+Link for more info: https://catalog.gmu.edu/colleges-schools/humanities-social-sciences/psychology/brain-body-and-behavior-minor/index.html
+Program: Business Administration, MBA
+Description: This degree prepares the next generation of world leaders through a rigorous and stimulating business curriculum based on industry needs and global perspective.
+Link for more info: https://catalog.gmu.edu/colleges-schools/business/business-administration-mba/index.html
+Program: Business Analytics Graduate Certificate
+Description: The Graduate Certificate in Business Analytics will help analysts and professionals from diverse domains to effectively analyze data through the hands-on use of decision modeling and other techniques using popular software tools. The program covers a wide array of methodologies and techniques — from data collection, organization, reporting and mining to extraction of useful and actionable information for decision makers.
+Link for more info: https://catalog.gmu.edu/colleges-schools/business/business-analytics-graduate-certificate/index.html
+Program: Business Analytics Minor
+Description: The amount of data flowing from, to, and through enterprises of all sorts is enormous, and growing rapidly—more rapidly than the capabilities of organizations to use it. Successful enterprises are those that make effective use of the abundance of data to which they have access: to make better predictions, better decisions, and form better strategies. Business analytics—which encompasses a variety of techniques to extract useful information from different sources of data—is being embraced at an increasing rate by organizations that need to gain actionable and forward-looking insight from their data. The minor in business analytics will provide students with the cutting-edge knowledge and skills they need to use and gather data to identify, understand, and deliver insights that internal and external clients find vital to organizational success.
+Link for more info: https://catalog.gmu.edu/colleges-schools/business/business-analytics-minor/index.html
+Program: Business Analytics, MS
+Description: The MS in Business Analytics program is a 30-credit hour program designed to be completed in 12 months. The curriculum is structured around a common set of core courses focused on the fundamental business analytics skills (e.g., descriptive, predictive, and prescriptive analytics) and a set of elective courses designed to deepen these business analytics skills within a specific business domain.
+Link for more info: https://catalog.gmu.edu/colleges-schools/business/business-analytics-ms/index.html
+Program: Business Fundamentals Graduate Certificate
+Description: The Graduate Certificate in Business Fundamentals provides students with foundational knowledge in four key areas of business: accounting, finance, management, and marketing. This introduction will augment students’ skillsets from their own academic and professional disciplines with a fundamental understanding of effective business practices.
+Link for more info: https://catalog.gmu.edu/colleges-schools/business/business-fundamentals-graduate-certificate/index.html
+Program: Business Minor
+Description: The business minor provides an introduction to the skills needed for success in the rapidly changing and evolving world of business. Because it is designed for non-business students who seek to learn business essentials to enhance their own area of expertise, the minor provides broad exposure to business concepts and theories. The minor also presents and integrates the major functional areas in business to solve management problems through the use of IT. Strong written and oral communication skills are expected.
+Link for more info: https://catalog.gmu.edu/colleges-schools/business/business-minor/index.html
+Program: Business, BS
+Description: The School of Business is ranked in the top 10 percent of the nation’s undergraduate business schools and offers a Bachelor of Science in Business with innovative concentrations. The School of Business also offers several options for a minor for business and non-business majors, as well as an undergraduate certificate program in accounting. The School of Business programs are designed to prepare graduates for work in a rapidly changing and competitive marketplace with local, regional, and global companies. With Mason’s location in Northern Virginia and proximity to Washington, D.C., combined with the assistance of the School of Business’s own Career Services staff and Student Success and Academic Services staff, students are also afforded exceptional opportunities to gain practical experience and global engagement opportunities to complement their academic coursework. Students admitted spring 2020 and later will graduate with a Bachelor of Science in Business degree.
+Link for more info: https://catalog.gmu.edu/colleges-schools/business/business-bs/index.html
+Program: Business, PhD
+Description: In an increasingly globalized world characterized by rapid change and progress, business communities need innovative scholarship that challenges established convention and gives practitioners, policymakers, and cultural influencers cutting-edge, evidence-based findings and tools to help them manage, lead, innovate, and excel in their careers and organizations. Scholarship such as this is produced at business schools with a vibrant, innovative PhD program in Business.
+Link for more info: https://catalog.gmu.edu/colleges-schools/business/business-phd/index.html
+Program: Cell and Molecular Biology Graduate Certificate
+Description: The Graduate Certificate in Cell and Molecular Biology prepares students for graduate-level studies or laboratory work in cell and molecular biology. Students will be introduced to research, experimental design, and laboratory methods. Students will gain knowledge in the cellular and molecular aspects of human cell functioning and its pathophysiology. Upon graduation, students will be able to analyze and interpret the results of experiments such as cell cultures, blood tests, and tumor biomarker tests. Graduates will also be prepared to apply to graduate programs in biology and related science disciplines.
+Link for more info: https://catalog.gmu.edu/colleges-schools/science/systems-biology/cell-molecular-biology-graduate-certificate/index.html
+Program: Chemistry Minor
+Description: This minor provides a firm foundation in chemical science. It is designed to be as flexible as possible so students can choose courses to complement their interests in areas such as biochemistry or environmental chemistry.
+Link for more info: https://catalog.gmu.edu/colleges-schools/science/chemistry-biochemistry/chemistry-minor/index.html
+Program: Chemistry and Biochemistry, PhD
+Description: The program is intended to prepare students for advanced work in the chemical sciences and related areas. Graduates with the PhD in this field can seek employment in research and development, process control, or higher education. In addition to these traditional science career paths, graduates are also positioned to pursue careers in non-traditional areas such as the intellectual property and regulatory fields. The program is designed to provide students with a firm foundation in advanced coursework, which is followed by an independent research project completed under the guidance of a faculty advisor. The culmination of the program is a dissertation representing original research that is publishable in a peer-reviewed scientific journal.
+Link for more info: https://catalog.gmu.edu/colleges-schools/science/chemistry-biochemistry/chemistry-biochemistry-phd/index.html
+Program: Chemistry, BA
+Description: This program, when coordinated with the necessary courses in education, meets requirements for teacher licensure. It also meets requirements for entrance to medical and other professional schools.
+Link for more info: https://catalog.gmu.edu/colleges-schools/science/chemistry-biochemistry/chemistry-ba/index.html
+Program: Chemistry, BS
+Description: This program is approved by theAmerican Chemical Society. Upon completion, students who choose either the BS in Chemistry with no concentration or with the Analytical Chemistry concentration are certified to the society. Students that have a keen interest in sustainability should choose the Environmental Chemistry concentration. Students planning professional careers in chemistry should choose this degree.
+Link for more info: https://catalog.gmu.edu/colleges-schools/science/chemistry-biochemistry/chemistry-bs/index.html
+Program: Chemistry, MS
+Description: This master's degree provides advanced training for recent college graduates, professionals in teaching, and technical workers in research organizations who have an interest in chemistry or biochemistry. With a Thesis Option Master's in Chemistry, the serious student will perform original research and write an MS thesis under the direction of a faculty member. This option is for students planning to continue with a PhD, or to work in industry, academia, or a national laboratory. The Non Thesis Option is often used by those going on to a professional degree or to teach chemistry at the secondary school level.
+Link for more info: https://catalog.gmu.edu/colleges-schools/science/chemistry-biochemistry/chemistry-ms/index.html
+Program: Chief Information Officer Graduate Certificate
+Description: The Chief Information Officer Graduate Certificate helps Information Technology (IT) professionals gain core competencies necessary for advancement into executive level roles that manage IT resources and strategy within organizations. The program specifically focuses on Enterprise Architecture and IT Governance, Management of Information Security, IT Project Management, Managing IT Investments, Managing IT Operations, and Emerging Technologies.
+Link for more info: https://catalog.gmu.edu/colleges-schools/business/chief-information-officer-graduate-certificate/index.html
+Program: Childhood Studies Minor
+Description: The interdisciplinary minor is designed for students who have a child-related focus in their major and for those who want to explore the topic of childhood. This minor focuses on the study of issues concerning children and their representations, including their experiences in society within historical and contemporary cultures and global contexts. The curriculum fosters thinking about childhood theory, research, policy and the practical applications of this knowledge to decisions regarding children and youth. The minor provides enough flexibility for students to choose relevant courses in keeping with their primary interests.
+Link for more info: https://catalog.gmu.edu/colleges-schools/humanities-social-sciences/integrative-studies/childhood-studies-minor/index.html
+Program: Chinese Minor
+Description: The minor in Chinese offers students the opportunity to study one of the rapidly developing ancient cultures of the world. The emphasis is on developing strong language skills: oral communication and the reading of texts.
+Link for more info: https://catalog.gmu.edu/colleges-schools/humanities-social-sciences/modern-classical-languages/chinese-minor/index.html
+Program: Civil and Infrastructure Engineering, BS
+Description: The bachelor's degree program provides essential underpinnings in the theory and design methods of civil and infrastructure engineering for engineering practice. Students benefit from exposure to practical civil, environmental, and infrastructure engineering problems and their solutions in the classroom, lab, and field. The educational objectives of the Civil and Infrastructure Engineering program describe expectations for graduates approximately three to five years after obtaining their degree. Graduates of the program will be professionals who:
+Link for more info: https://catalog.gmu.edu/colleges-schools/engineering-computing/engineering/civil-environmental-infrastructure/civil-infrastructure-engineering-bs/index.html
+Program: Civil and Infrastructure Engineering, MS
+Description: This MS is designed for students who have completed a bachelor's degree in civil engineering, although domestic students with related undergraduate degrees may be considered for provisional admission. The MS educates students in the theory and practice of civil engineering science and design, with a technical concentration. The master's degree is increasingly expected for high level practice in civil engineering, and prepares graduates to practice in civil engineering for: federal, state, or local government; engineering design firms; construction firms; public utilities; non-governmental organizations; and local and regional planning firms, among others. The MS degree serves as a foundation for subsequent study in a doctoral program in civil engineering, as well as for graduate studies in architecture, law, business, economics, finance, and public policy and administration.
+Link for more info: https://catalog.gmu.edu/colleges-schools/engineering-computing/engineering/civil-environmental-infrastructure/civil-infrastructure-engineering-ms/index.html
+Program: Civil and Infrastructure Engineering, PhD
+Description: The Doctor of Philosophy in Civil and Infrastructure Engineering was created to prepare students for advanced leadership positions in research and development in the public or private sector, academics, or government. Students may elect to study in the areas of: construction engineering and management, environmental and water resources engineering, geotechnical engineering, structural engineering, or transportation engineering. Admitted students will complete both required and applicable coursework in their technical interest area based on a plan of study prepared with a doctoral advisor. They will take qualifying exams that assess student's breadth of knowledge at the graduate level and competency to conduct research. They will form a doctoral committee and prepare and defend a dissertation proposal leading to PhD candidacy. Finally, they will conduct original scholarly research and prepare, then defend a doctoral dissertation. Both part-time and full-time study is available.
+Link for more info: https://catalog.gmu.edu/colleges-schools/engineering-computing/engineering/civil-environmental-infrastructure/civil-infrastructure-engineering-phd/index.html
+Program: Classical Studies Minor
+Description: The minor is designed for students who wish to become familiar with Classical cultures and broaden their knowledge of the foundations of Western civilization. It is especially relevant to students who are studying other areas of the humanities such as English, languages, comparative literature, history, art history, philosophy, or religious studies. The requirements of the minor provide flexibility so students can choose courses that are relevant to their primary interests.
+Link for more info: https://catalog.gmu.edu/colleges-schools/humanities-social-sciences/modern-classical-languages/classical-studies-minor/index.html
+Program: Climate Dynamics, PhD
+Description: 
+Link for more info: https://catalog.gmu.edu/colleges-schools/science/atmospheric-oceanic-earth-sciences/climate-dynamics-phd/index.html
+Program: Climate Science, MS
+Description: The understanding of climate science is essential to the interpretation of modern climate variations and the measurement of their impact. Climate data must be analyzed and interpreted in order to formulate useful responses and plan actions to meet specific climate challenges. The MS in Climate Science educates students to be climate professionals who can analyze and model advanced climate data. Students in the program learn to solve quantitative problems about atmospheric properties and variability, fluid dynamics, and the role of the ocean and land surface in climate. Students choose a concentration in either Climate Modeling or Climate Data to gain specific skills to understand and predict climate variations.
+Link for more info: https://catalog.gmu.edu/colleges-schools/science/atmospheric-oceanic-earth-sciences/climate-science-ms/index.html
+Program: Clinical Psychology Minor
+Description: The required courses of the minor in Clinical Psychology provide a foundation in psychology and focus on assessment and treatment of distress and dysfunction. The electives provide in-depth knowledge of normal development, psychological theories, psychological disorders, and treatment techniques.
+Link for more info: https://catalog.gmu.edu/colleges-schools/humanities-social-sciences/psychology/clinical-psychology-minor/index.html
+Program: Coaching Minor
+Description: This minor has been designed for Mason students interested in the coaching profession at all age and ability levels, including future high school teachers who also want to coach. With this selection of courses, students will be introduced to foundational concepts in sport psychology, philosophy, pedagogy, nutrition, athletic training and physiology as well as important sport industry business concepts. Coaching minors will complete their work with a field experience in sport coaching.
+Link for more info: https://catalog.gmu.edu/colleges-schools/education-human-development/school-sport-recreation-tourism-management/coaching-minor/index.html
+Program: Cognitive Neuroscience Graduate Certificate
+Description: The Department of Psychology offers a graduate certificate in cognitive neuroscience under the auspices of the program in Human Factors/Applied Cognition.
+Link for more info: https://catalog.gmu.edu/colleges-schools/humanities-social-sciences/psychology/cognitive-neuroscience-graduate-certificate/index.html
+Program: College Teaching Graduate Certificate (ENGL)
+Description: The certificate in college teaching is designed for graduate students who are planning a career in undergraduate education. The program offers courses that enhance pedagogical skills and explore pedagogical assessment or scholarship with the use of technology in instruction.
+Link for more info: https://catalog.gmu.edu/colleges-schools/humanities-social-sciences/english/college-teaching-graduate-certificate/index.html
+Program: College Teaching Graduate Certificate (HE)
+Description: The certificate in college teaching is designed for graduate students who are planning a career in undergraduate education. The program offers courses that enhance pedagogical skills and explore pedagogical assessment or scholarship with the use of technology in instruction.
+Link for more info: https://catalog.gmu.edu/colleges-schools/humanities-social-sciences/higher-education/college-teaching-graduate-certificate/index.html
+Program: Communication Minor
+Description: The minor in communication helps students build the communication skills that are necessary for success in technology-intensive, team-oriented, and multicultural workplaces. Students can choose to build skills in interpersonal and small group communication, presentations and public speaking, digital media production, and informational or persuasive writing. Alternatively, students considering graduate study in communication can take courses in communication research and theory.
+Link for more info: https://catalog.gmu.edu/colleges-schools/humanities-social-sciences/communication/communication-minor/index.html
+Program: Communication, BA
+Description: Communication is the study of basic human social processes: the creation and dissemination of meaning and information. The major prepares students for graduate study or professional positions in such fields as interpersonal and organizational communication, journalism, media production and criticism, political communication, and public relations. Students develop skills and knowledge that put them at the edge of a rapidly changing communication industry. Majors learn to construct and evaluate messages across platforms—web, print, audio and visual.
+Link for more info: https://catalog.gmu.edu/colleges-schools/humanities-social-sciences/communication/communication-ba/index.html
+Program: Communication, MA
+Description: As the environment for public and private communication becomes increasingly complex, organizations rely more and more heavily on thoughtful and effective communication professionals. To this end, Communication MA students may choose to specialize in strategic communication/public relations, health communication or science communication. They may also choose an individualized specialization in communication studies according to their interests. Across all specializations, students receive a strong foundation in communication theory and learn to design, execute, and interpret rigorous communication research. Students are challenged to apply communication knowledge to help solve problems and to address important social issues.
+Link for more info: https://catalog.gmu.edu/colleges-schools/humanities-social-sciences/communication/communication-ma/index.html
+Program: Communication, PhD
+Description: The PhD in Communication explores key issues in the discipline such as communicating complex information, social influence and behavior change, the digital divide, public advocacy, intercultural sensitivity, media literacy, and national security. The PhD program offers three major areas of emphasis: health communication, science communication, and strategic communication. Faculty and students conduct research concerning health communication, risk communication, climate change communication, science communication, crisis management, organizational communication, media systems, public communication campaigns, new information technologies, communication policy, and media advocacy.
+Link for more info: https://catalog.gmu.edu/colleges-schools/humanities-social-sciences/communication/communication-phd/index.html
+Program: Community Health, BS
+Description: The public health field is one of the fastest growing, most exciting, and versatile areas of study on college campuses across the United States today. The Community Health BS Program, accredited by the Council on Education for Public Health (CEPH), prepares students for the exciting field of public health with the knowledge, understanding and application of evidence-based approaches to public health. The program explores community health, health promotion, health education, and disease prevention policies and practices. Graduates work with a variety of health-related organizations and are expected to confront complex behavioral, cultural, and social challenges affecting populations at the local, national, regional, and global levels.
+Link for more info: https://catalog.gmu.edu/colleges-schools/public-health/global-community-health/community-health-bs/index.html
+Program: Community and Public Writing Minor
+Description: This minor foregrounds the public (or social) nature of writing and reimagines writing as a tool for dialog across difference, inclusion, coalition-building, activism, and advocacy. Integrating reading and writing assignments with the opportunity to carry out writing and research of value to community-based initiatives (such as those advocated by nonprofit organizations, neighborhood activists, and community advocates), this minor opens forundergraduate study how communities take shape around shared reading, writing, and “languaging” practices within local, national, and/or global material context.
+Link for more info: https://catalog.gmu.edu/colleges-schools/humanities-social-sciences/english/community-public-writing-minor/index.html
+Program: Computational Science, MS
+Description: The Master of Science in Computational Science addresses the growing demand for trained computational scientists and engineers, and data scientists. It combines a solid foundation in computational science skills with courses in a variety of scientific and engineering computer-intensive areas where modeling and simulation, data analysis, and high performance computing play a central role.
+Link for more info: https://catalog.gmu.edu/colleges-schools/science/computational-data-sciences/computational-sciences-ms/index.html
+Program: Computational Sciences and Informatics, PhD
+Description: Founded in 1992, the program addresses the role of computation in science, mathematics, and engineering, and is designed around the emphases of Computer Modeling and Simulation and of Data Science. Computational science, focused on modeling and simulation, is defined as the systematic development and application of computing systems and computational solution techniques for modeling and simulation of scientific and engineering phenomena. Informatics, focused on data science, is defined as the systematic development and application of computing systems and computational solution techniques for analyzing data obtained through experiments, modeling, database searches, and instrumentation. The resulting interdisciplinary approach leads to an understanding that traditional theory or experimentation alone cannot provide.
+Link for more info: https://catalog.gmu.edu/colleges-schools/science/computational-data-sciences/computational-sciences-informatics-phd/index.html
+Program: Computational Social Science Graduate Certificate
+Description: This program is designed for students who seek training in computer simulation and related computational methods for analyzing social systems and processes. The program is open to all students with graduate standing at George Mason University and all students who hold a bachelor's degree from a regionally accredited university. The Computational Social Science (CSS) certificate allows students with social science or computational backgrounds to acquire new knowledge and modeling skills to improve their qualifications and attractiveness to employers in government, academia, or industry. The core courses provide a common foundation; additional elective courses allow for a variety of student interests across diverse social domains.
+Link for more info: https://catalog.gmu.edu/colleges-schools/science/computational-data-sciences/computational-social-science-graduate-certificate/index.html
+Program: Computational Social Science, PhD
+Description: The core objective of the program is to train graduate students to be professional computational social scientists in academia, government, or business. The program offers a unique and innovative interdisciplinary academic environment for systematically exploring, discovering, and developing skills to successfully follow careers in one of the areas of computational social science.
+Link for more info: https://catalog.gmu.edu/colleges-schools/science/computational-data-sciences/computational-social-science-phd/index.html
+Program: Computational and Data Sciences Minor
+Description: The minor provides an attractive option for students majoring in science, technology, engineering, or mathematics (STEM) who wish to augment their major degree program with additional courses in modeling, simulation, data science, and scientific computing. The combination of computer science, numerical methods, science, and computational and data sciences (CDS) synthesis courses will significantly enhance the practical knowledge and computational skills of the students when compared with the major field alone. Students will acquire the knowledge, skills, and techniques commonly used across scientific disciplines, which will allow them to apply their George Mason University education in a practical way in industrial, government, and academic settings. Computational and data sciences skills are highly sought after in today's marketplace.
+Link for more info: https://catalog.gmu.edu/colleges-schools/science/computational-data-sciences/computational-data-sciences-minor/index.html
+Program: Computational and Data Sciences, BS
+Description: The aim of this degree is to provide students with technical skills and knowledge for rigorously investigating physical and social phenomena. The BS is a transformative approach that integrates science at George Mason University based on the combination of real-world computer science skills, data acquisition and analysis, scientific modeling, applied mathematics, and simulation. As an interdisciplinary STEM-designated program, this degree addresses the current central role of computation in the areas of "big data," modeling, and simulation. Graduates of the program will possess the computational, scientific, and mathematical skills necessary for participating effectively as members of the scientific simulation and data analysis groups that are of increasing importance in the federal and public sectors, and in high technology firms. Additionally, graduates of the program will be well prepared to pursue graduate studies.
+Link for more info: https://catalog.gmu.edu/colleges-schools/science/computational-data-sciences/computational-data-sciences-bs/index.html
+Program: Computer Engineering, BS
