@@ -38,7 +38,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="/Users/asaad/Desktop/fast-react/env"
+VIRTUAL_ENV="/Users/amrokarar/Documents/Hackfax2024/env"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
