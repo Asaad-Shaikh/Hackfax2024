@@ -1,49 +1,32 @@
-from fastapi import FastAPI, HTTPException, Depends
-from typing import Annotated
-from sqlalchemy.orm import Session
+from fastapi import FastAPI, HTTPException
 from pydantic import BaseModel
 from fastapi.middleware.cors import CORSMiddleware
-from database import SessionLocal, engine
-import models
 
 app = FastAPI()
 
+# CORS middleware setup to allow requests from your React app
 origins = [
-    'http://localhost:3000'
+    "http://localhost:3000",  # Assuming your React app runs here
 ]
 
 app.add_middleware(
     CORSMiddleware,
     allow_origins=origins,
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
 )
 
-class LoginBase(BaseModel):
-    masonid: str
-    password: str
+class LoginRequest(BaseModel):
+    username: str
 
-class LoginModel(LoginBase):
+@app.post("/logins/")
+async def login(login_request: LoginRequest):
+    # Here you would typically handle the login request, e.g., check credentials
+    # For demonstration, we'll just echo back the username received
+    response_message = f"Received username: {login_request.username}"
+    return {"status": response_message}
 
-    class Config:
-        orm_mode = True
-
-# close database when request is complete
-def get_db():
-    db = SessionLocal()
-    try:
-        yield db
-    finally:
-        db.close()
-
-# automate table creation
-db_dependency = Annotated[Session, Depends(get_db)]
-
-models.Base.metadata.create_all(bind=engine)
-
-
-@app.post("/logins/", response_model=LoginModel)
-async def create_login(login: LoginBase, db: db_dependency):
-    db_login = models.Login(**login.model_dump())  # Change Transaction to Login
-    db.add(db_login)
-    db.commit()
-    db.refresh(db_login)
-    return db_login
+if __name__ == "__main__": 
+    import uvicorn
+    uvicorn.run(app, host="0.0.0.0", port=8000)
