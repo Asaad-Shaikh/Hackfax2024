@@ -8,7 +8,7 @@ base_url = 'https://mason360.gmu.edu'
 s = HTMLSession()
 r = s.get(url)
 
-r.html.render(sleep=2)  
+r.html.render(sleep=3)  
 
 h2_elements = r.html.find('h2.header-cg--h4', first=False)
 
@@ -33,18 +33,33 @@ with open('events_combined.txt', 'w', encoding='utf-8') as file:
         soup = BeautifulSoup(new_response.content, 'html.parser')
         target_divs = soup.find_all('div', class_='col-md-4_5')
 
-        # Write the event URL and title to the file
         title = new_response.html.find('title', first=True).text if new_response.html.find('title') else 'No Title Found'
-        file.write(f"{newUrl}\n{title}\n")
+        parts = title.split(' - ')
+
+        if len(parts) == 3:
+            modified_title = 'Event: ' + parts[0] + ' - ' + parts[1] 
+            organizer = 'Organizer: ' + parts[2]
+        else:
+            modified_title = 'Event: ' + parts[0]
+            organizer = 'Organizer: ' + parts[1]
+            
+        file.write(f"Link: {newUrl}\n{modified_title}\n{organizer}\n")
 
         # Iterate through each div and find <p> tags
         for div in target_divs:
             p_tags = div.find_all('p')
-            for p in p_tags:
-                dwrite = p.get_text(strip=True)
-                file.write(dwrite + "\n")  
 
-        # Add a new line to separate events
+        counter = 1  
+        for p in p_tags:
+            dwrite = p.get_text(strip=True)            
+            if counter == 1:
+                file.write("Date: " + dwrite + "\n")
+            elif counter == 2:
+                file.write("Time: " + dwrite + "\n")
+            else:
+                file.write(dwrite + "\n")
+            counter += 1  
+
         file.write("\n")
 
 
