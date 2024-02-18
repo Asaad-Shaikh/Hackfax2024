@@ -1,18 +1,14 @@
-import requests
+from requests_html import HTMLSession
 from bs4 import BeautifulSoup
 
-url = "https://catalog.gmu.edu/programs/#filter=.filter_22&.filter_23"
 
-# Send an HTTP request to the URL
-response = requests.get(url)
+url = 'https://catalog.gmu.edu/programs/#filter=.filter_22&.filter_23'
+base_url = 'https://mason360.gmu.edu'
 
-# Parse the HTML content
-soup = BeautifulSoup(response.content, "html.parser")
+s = HTMLSession()
+r = s.get(url)
 
-# Find all elements that contain the major names
-major_elements = soup.find_all("div", class_="courseblock")
+r.html.render(sleep=1)  
 
-# Extract and print the major names
-for major_element in major_elements:
-    major_name = major_element.find("p", class_="courseblocktitle").text.strip()
-    print(major_name)
+major_elements = r.html.find('div.tab_content', first=False)
+print(major_elements.text)
