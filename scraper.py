@@ -60,7 +60,6 @@ with open('events_combined.txt', 'w', encoding='utf-8') as file:
                 file.write(dwrite + "\n")
             counter += 1  
 
-        file.write("\n")
 
 
 
